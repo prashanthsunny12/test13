@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1720078896,,"wq"
+|2,0,1720084491,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -26,16 +26,20 @@
 
 # File marks:
 '0  1  18  ~/dir1
-|4,48,1,18,1720078896,"~/dir1"
+|4,48,1,18,1720084491,"~/dir1"
+'1  1  18  ~/dir1
+|4,49,1,18,1720078896,"~/dir1"
 
 # Jumplist (newest first):
+-'  1  18  ~/dir1
+|4,39,1,18,1720084491,"~/dir1"
 -'  1  18  ~/dir1
 |4,39,1,18,1720078896,"~/dir1"
 
 # History of marks within files (newest to oldest):
 
 > ~/dir1
-	*	1720078893	0
+	*	1720084489	0
 	"	1	18
 	^	1	19
 	.	1	18
